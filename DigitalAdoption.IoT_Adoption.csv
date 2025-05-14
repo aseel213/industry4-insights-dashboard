@@ -1,0 +1,78 @@
+Country,Year,Sector,Purpose,Adoption_Rate
+European Union,2021,10_J58_63,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",69
+European Union,2021,10_M69_75,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",65
+European Union,2021,10_L68,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",71
+European Union,2021,10_D35_E39,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",65
+European Union,2021,10_I55,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",78
+European Union,2021,10_N77_82,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",66
+European Union,2021,10_C10_33,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",72
+European Union,2021,10_G45_47,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",78
+European Union,2021,10_H49_53,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",61
+European Union,2021,10_G47,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",79
+European Union,2021,10_F41_43,"Use IoT for premises' security \n(e.g. smart-alarm systems, -smoke detectors, -door locks, -security cameras)",72
+European Union,2021,10_J58_63,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",31
+European Union,2021,10_M69_75,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",28
+European Union,2021,10_L68,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",45
+European Union,2021,10_D35_E39,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",41
+European Union,2021,10_I55,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",48
+European Union,2021,10_N77_82,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",22
+European Union,2021,10_C10_33,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",35
+European Union,2021,10_G45_47,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",28
+European Union,2021,10_H49_53,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",22
+European Union,2021,10_G47,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",30
+European Union,2021,10_F41_43,"Use IoT for energy consumption management \n(e.g. smart-meters, -thermostats, -lights) ",27
+European Union,2021,10_J58_63,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,26
+European Union,2021,10_M69_75,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,18
+European Union,2021,10_L68,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,17
+European Union,2021,10_D35_E39,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,41
+European Union,2021,10_I55,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,22
+European Union,2021,10_N77_82,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,23
+European Union,2021,10_C10_33,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,28
+European Union,2021,10_G45_47,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,21
+European Union,2021,10_H49_53,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,34
+European Union,2021,10_G47,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,19
+European Union,2021,10_F41_43,Use IoT for condition-based maintenance \n(e.g. sensors to monitor maintenance needs of machines or vehicles) ,24
+European Union,2021,10_J58_63,Use IoT for other purposes ,36
+European Union,2021,10_M69_75,Use IoT for other purposes ,31
+European Union,2021,10_L68,Use IoT for other purposes ,22
+European Union,2021,10_D35_E39,Use IoT for other purposes ,26
+European Union,2021,10_I55,Use IoT for other purposes ,26
+European Union,2021,10_N77_82,Use IoT for other purposes ,31
+European Union,2021,10_C10_33,Use IoT for other purposes ,22
+European Union,2021,10_G45_47,Use IoT for other purposes ,22
+European Union,2021,10_H49_53,Use IoT for other purposes ,21
+European Union,2021,10_G47,Use IoT for other purposes ,23
+European Union,2021,10_F41_43,Use IoT for other purposes ,22
+European Union,2021,10_J58_63,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),11
+European Union,2021,10_M69_75,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),8
+European Union,2021,10_L68,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),12
+European Union,2021,10_D35_E39,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),36
+European Union,2021,10_I55,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),7
+European Union,2021,10_N77_82,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),25
+European Union,2021,10_C10_33,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),18
+European Union,2021,10_G45_47,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),20
+European Union,2021,10_H49_53,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),61
+European Union,2021,10_G47,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),14
+European Union,2021,10_F41_43,Use IoT for logistics management \n(e.g. sensors for tracking products or vehicles in warehouse management),31
+European Union,2021,10_J58_63,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),17
+European Union,2021,10_M69_75,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),11
+European Union,2021,10_L68,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),8
+European Union,2021,10_D35_E39,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),34
+European Union,2021,10_I55,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),14
+European Union,2021,10_N77_82,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),16
+European Union,2021,10_C10_33,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),32
+European Union,2021,10_G45_47,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),12
+European Union,2021,10_H49_53,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),12
+European Union,2021,10_G47,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),11
+European Union,2021,10_F41_43,Use IoT for production processes \n(e.g. sensors or RFID tags to monitor or automate the process),12
+European Union,2021,10_J58_63,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,18
+European Union,2021,10_M69_75,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,10
+European Union,2021,10_L68,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,11
+European Union,2021,10_D35_E39,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,11
+European Union,2021,10_I55,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,22
+European Union,2021,10_N77_82,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,15
+European Union,2021,10_C10_33,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,10
+European Union,2021,10_G45_47,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,15
+European Union,2021,10_H49_53,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,11
+European Union,2021,10_G47,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,17
+European Union,2021,10_F41_43,Use IoT for customer service \n(e.g. smart cameras  or sensors to offer customers a personalised shopping experience) ,10

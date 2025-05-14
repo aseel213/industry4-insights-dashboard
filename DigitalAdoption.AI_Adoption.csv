@@ -1,0 +1,72 @@
+_id,Country,Year,Sector,Share_of_AI_Users_percent
+6823b8c9a40c37f1a34abeab,Belgium,2020,Transport & Storage,5
+6823b8c9a40c37f1a34abeac,Belgium,2020,Wholesale & Retail,8
+6823b8c9a40c37f1a34abead,Belgium,2020,Administrative & Real Est.,9
+6823b8c9a40c37f1a34abeae,Belgium,2020,Construction,9
+6823b8c9a40c37f1a34abeaf,Belgium,2020,Manufacturing & Utilities,12
+6823b8c9a40c37f1a34abeb0,Belgium,2020,Professional & Scientific,20
+6823b8c9a40c37f1a34abeb1,Belgium,2020,Information & Communication,33
+6823b8c9a40c37f1a34abeb2,Denmark,2020,Construction,8
+6823b8c9a40c37f1a34abeb3,Denmark,2020,Accommodation & Food,11
+6823b8c9a40c37f1a34abeb4,Denmark,2020,Administrative & Real Est.,15
+6823b8c9a40c37f1a34abeb5,Denmark,2020,Transport & Storage,18
+6823b8c9a40c37f1a34abeb6,Denmark,2020,Wholesale & Retail,20
+6823b8c9a40c37f1a34abeb7,Denmark,2020,Manufacturing & Utilities,25
+6823b8c9a40c37f1a34abeb8,Denmark,2020,Professional & Scientific,37
+6823b8c9a40c37f1a34abeb9,Denmark,2020,Information & Communication,48
+6823b8c9a40c37f1a34abeba,France,2018,Transport & Storage,7
+6823b8c9a40c37f1a34abebb,France,2018,Construction,9
+6823b8c9a40c37f1a34abebc,France,2018,Manufacturing & Utilities,10
+6823b8c9a40c37f1a34abebd,France,2018,Wholesale & Retail,11
+6823b8c9a40c37f1a34abebe,France,2018,Accommodation & Food,12
+6823b8c9a40c37f1a34abebf,France,2018,Administrative & Real Est.,13
+6823b8c9a40c37f1a34abec0,France,2018,Professional & Scientific,18
+6823b8c9a40c37f1a34abec1,France,2018,Information & Communication,27
+6823b8c9a40c37f1a34abec2,Germany,2018,Transport & Storage,3
+6823b8c9a40c37f1a34abec3,Germany,2018,Wholesale & Retail,4
+6823b8c9a40c37f1a34abec4,Germany,2018,Administrative & Real Est.,5
+6823b8c9a40c37f1a34abec5,Germany,2018,Manufacturing & Utilities,8
+6823b8c9a40c37f1a34abec6,Germany,2018,Information & Communication,13
+6823b8c9a40c37f1a34abec7,Germany,2018,Professional & Scientific,15
+6823b8c9a40c37f1a34abec8,Israel,2020,Wholesale & Retail,1
+6823b8c9a40c37f1a34abec9,Israel,2020,Professional & Scientific,2
+6823b8c9a40c37f1a34abeca,Israel,2020,Manufacturing & Utilities,4
+6823b8c9a40c37f1a34abecb,Israel,2020,Information & Communication,34
+6823b8c9a40c37f1a34abecc,Italy,2020,Transport & Storage,3
+6823b8c9a40c37f1a34abecd,Italy,2020,Accommodation & Food,5
+6823b8c9a40c37f1a34abece,Italy,2020,Construction,5
+6823b8c9a40c37f1a34abecf,Italy,2020,Wholesale & Retail,6
+6823b8c9a40c37f1a34abed0,Italy,2020,Administrative & Real Est.,6
+6823b8c9a40c37f1a34abed1,Italy,2020,Manufacturing & Utilities,7
+6823b8c9a40c37f1a34abed2,Italy,2020,Professional & Scientific,10
+6823b8c9a40c37f1a34abed3,Italy,2020,Information & Communication,16
+6823b8c9a40c37f1a34abed4,Japan,2017,Transport & Storage,2
+6823b8c9a40c37f1a34abed5,Japan,2017,Accommodation & Food,3
+6823b8c9a40c37f1a34abed6,Japan,2017,Manufacturing & Utilities,4
+6823b8c9a40c37f1a34abed7,Japan,2017,Administrative & Real Est.,4
+6823b8c9a40c37f1a34abed8,Japan,2017,Wholesale & Retail,6
+6823b8c9a40c37f1a34abed9,Japan,2017,Professional & Scientific,11
+6823b8c9a40c37f1a34abeda,Japan,2017,Information & Communication,17
+6823b8c9a40c37f1a34abedb,Korea,2019,Transport & Storage,1
+6823b8c9a40c37f1a34abedc,Korea,2019,Administrative & Real Est.,2
+6823b8c9a40c37f1a34abedd,Korea,2019,Wholesale & Retail,3
+6823b8c9a40c37f1a34abede,Korea,2019,Manufacturing & Utilities,3
+6823b8c9a40c37f1a34abedf,Korea,2019,Construction,4
+6823b8c9a40c37f1a34abee0,Korea,2019,Professional & Scientific,6
+6823b8c9a40c37f1a34abee1,Korea,2019,Information & Communication,14
+6823b8c9a40c37f1a34abee2,Portugal,2020,Construction,10
+6823b8c9a40c37f1a34abee3,Portugal,2020,Accommodation & Food,14
+6823b8c9a40c37f1a34abee4,Portugal,2020,Wholesale & Retail,18
+6823b8c9a40c37f1a34abee5,Portugal,2020,Transport & Storage,20
+6823b8c9a40c37f1a34abee6,Portugal,2020,Manufacturing & Utilities,21
+6823b8c9a40c37f1a34abee7,Portugal,2020,Professional & Scientific,23
+6823b8c9a40c37f1a34abee8,Portugal,2020,Administrative & Real Est.,24
+6823b8c9a40c37f1a34abee9,Portugal,2020,Information & Communication,33
+6823b8c9a40c37f1a34abeea,Switzerland,2020,Construction,5
+6823b8c9a40c37f1a34abeeb,Switzerland,2020,Manufacturing & Utilities,7
+6823b8c9a40c37f1a34abeec,Switzerland,2020,Transport & Storage,9
+6823b8c9a40c37f1a34abeed,Switzerland,2020,Professional & Scientific,11
+6823b8c9a40c37f1a34abeee,Switzerland,2020,Wholesale & Retail,13
+6823b8c9a40c37f1a34abeef,Switzerland,2020,Administrative & Real Est.,15
+6823b8c9a40c37f1a34abef0,Switzerland,2020,Accommodation & Food,17
+6823b8c9a40c37f1a34abef1,Switzerland,2020,Information & Communication,36
